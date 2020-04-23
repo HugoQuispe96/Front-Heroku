@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-test",
+  "version": "1.0.0",
+  "description": "My dazzling Nuxt.js project",
+  "author": "HugoQuispe96",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "vue-axios": "^2.1.5"
+  },
+  "devDependencies": {
+  }
+}
